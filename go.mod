@@ -1,4 +1,4 @@
-module github.com/smacker/newrelic-context
+module github.com/tolik505/newrelic-context
 
 go 1.13
 
